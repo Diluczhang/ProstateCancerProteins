@@ -1,0 +1,28 @@
+差异计算和筛选结果：
+		Subgroup1_vs_others，Subgroup2_vs_others，Subgroup3_vs_others，所有p<0.05的差异基因：Protein.all.different_analysis.xlsx
+		分别筛选了Subgroup1_vs_others，Subgroup2_vs_others，Subgroup3_vs_others的FC top50，得到：Protein.all.DEP.top50.xlsx
+		提取top50表达量矩阵，得到：Protein.DEP.top50.csv
+随机森林分析代码：
+	radomforest.py
+	输入文件：
+		Protein.DEP.top50.csv
+	结果文件：
+		设置n_estimators范围1,10,20,30,40,50,60,70,80,90,100，min_samples_leaf范围1-20，10折交叉验证结果
+                选择了最大的mean_accuracy对应的min_samples_leaf = 3，n_estimators = 60，进行建模
+		建模，获得每个特征重要性Protein.RandomForest.importance.csv
+		选择importance top50获取累积AUC：Protein.RandomForest.Cumulate_auc_top50.csv
+		最终选择importance top39进行完整分析，结果文件：
+			Protein.RandomForest.Cumulate_auc_top39.csv
+			Protein.RandomForest.testANDtrain_AUC curves.top39.png
+			Y_test_reduce_binar_ravel_label.top39.csv
+			Y_test_reduce_binar_ravel.top39.csv
+			Y_test_reduce_binar.top39.csv
+			Y_train_reduce_binar_ravel_label.top39.csv
+			TPR_FPR_Label.top39.xlsx
+
+
+		
+	
+		
+		
+		

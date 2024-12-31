@@ -1,0 +1,5 @@
+Cluster	Color
+Cell_Cycle	#9B9CE7
+Luminal_C3	#3E6757
+Luminal_C2	#B6DDE7
+Luminal_C1	#08979D

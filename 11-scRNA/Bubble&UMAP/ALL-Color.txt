@@ -1,0 +1,11 @@
+Type	color
+Tcells	#167C7F
+NK	#A2C5BF
+Bcells	#0082C8
+DC	#F3D54F
+Monocytes	#FFBAC5
+Macrophages	#FAAA68
+Neutrophils	#F49A9A
+Epithelium	#7FC18D
+Fibroblast	#938CA8
+Endothelium	#511A73

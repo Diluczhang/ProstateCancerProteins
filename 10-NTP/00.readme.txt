@@ -1,0 +1,5 @@
+NTP分型
+	ntp_function.R
+	human
+		对应结果文件夹  human\3.NTP分型top39
+			2.ntp.h.R

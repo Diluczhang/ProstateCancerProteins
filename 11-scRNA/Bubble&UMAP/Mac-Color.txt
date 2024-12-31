@@ -1,0 +1,5 @@
+Cluster	Color
+Vcam1_Macro	#F0B95E
+Arg1_Macro	#FF7D41
+Lyve1_Macro	#DE7258
+Mki67_Macro	#B8C9DD

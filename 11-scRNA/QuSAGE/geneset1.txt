@@ -1,0 +1,79 @@
+Term	Gene
+Epithelial	Ar
+Epithelial	Klk1b8
+Epithelial	Foxa1
+Epithelial	Gata2
+Luminal	Krt8
+Luminal	Krt18
+Basal/Interm	Krt19
+Basal/Interm	Krt5
+Basal/Interm	Krt14
+Basal/Interm	Trp63
+Ligands	Ccl2
+Ligands	H2-Eb2
+Ligands	H2-Ea
+CellCycle	Ccnb1
+CellCycle	Cenpf
+CellCycle	Pttg1
+Hypoxia	Asf1b
+Hypoxia	Aspm
+Hypoxia	Birc5
+Hypoxia	Bub3
+Hypoxia	Cenpe
+Hypoxia	Cenpu
+Hypoxia	Cmtm3
+Hypoxia	Donson
+Hypoxia	Dtl
+Hypoxia	Foxm1
+Hypoxia	G6pd2
+Hypoxia	Hjurp
+Hypoxia	Mcm2
+Hypoxia	Mep1a
+Hypoxia	Mtmr2
+Hypoxia	Trip13
+Hypoxia	Zwint
+Hypoxia	Tdg
+Hypoxia	Ung
+Hypoxia	Xrcc6
+Hypoxia	Adm
+Hypoxia	Ddit4
+Hypoxia	Dsp
+Hypoxia	Fer1l4
+Hypoxia	Hilpda
+Hypoxia	P4ha1
+Hypoxia	Pkm
+Hypoxia	Rimkla
+Hypoxia	Rnase4
+Hypoxia	Scd2
+Hypoxia	Spag4
+PCS1	Stmn1
+PCS1	Mcm4
+PCS1	Ccnb1
+PCS1	Cdc6
+PCS1	Cdkn3
+PCS1	Ezh2
+PCS1	Tpx2
+PCS1	Foxm1
+PCS1	Kif11
+PCS1	Hmmr
+PCS1	Mki67
+PCS1	Kntc1
+Luminal B	Erbb2
+Luminal B	Top2a
+Luminal B	Ccnd1
+Luminal B	Myc
+Luminal B	Aurka
+Luminal B	Cdk4
+Luminal B	Egfr
+Luminal B	Prkcb
+Luminal B	Grb7
+Luminal B	Map3k1
+SEG2	Alcam
+SEG2	Mb
+SEG2	Eci2
+SEG2	Ptbp2
+SEG2	Mal2
+SEG2	Itgae
+SEG2	Ggct
+SEG2	Fasn
+SEG2	Extl2
